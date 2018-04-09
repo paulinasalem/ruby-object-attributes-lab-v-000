@@ -15,5 +15,4 @@ def breed
   @breed
 end
 end
-Fido = Dog.new
-Lassie = Dog.new
+
