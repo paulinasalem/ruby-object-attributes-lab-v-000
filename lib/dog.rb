@@ -8,3 +8,4 @@ class Dog
   end
 end
 Fido = Dog.new
+Lassie = Dog.new
